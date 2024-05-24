@@ -2,7 +2,7 @@
 <h2>Tomica Veljkovic</h2>
 <h3>Control Flow Graph</h3>
 
-![lab2final]() 
+![lab2final](https://github.com/TomicaVeljkovic/SI_2024_lab2_212101/blob/master/image.png) 
 
 
 <h3>Цикломатска комплексност</h3>
